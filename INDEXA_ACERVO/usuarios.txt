@@ -1,0 +1,6 @@
+1;Rayane Reis;Cliente;rayane;123
+2;Kaua Thramn;Bibliotecario;kaua;123
+3;Claudio Bispo;Cliente;claudio;123
+4;Patrick Campos;Cliente;patrick;123
+5;Ana;Cliente;ana;123
+6;Maria;Cliente;maria;123
